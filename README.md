@@ -1,7 +1,7 @@
 # Mode-Share-Anomoly-Detection
 Where should Transport for London focus it's Policy and Interventions?
 
-If you want to fix bus patronage the here I think:
+If you want to fix bus patronage then here (I think):
 
 ![](https://github.com/fredshone/Mode-Share-Anomoly-Detection/blob/master/Outliers.png)
 
